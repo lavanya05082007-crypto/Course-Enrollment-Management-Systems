@@ -1,2 +1,43 @@
-# Course-Enrollment-Management-Systems
-🗣️ Delighted to share that I have successfully completed my Console based Application Development with the Backend MySql ✨ !!!   It was just started from the learning session with one or two rows of execution, by doing all the Database operations in connection with MySql to my Console App 'Course Enrollment Management System'. 
+# Course Enrollment Management System
+
+A Console Application developed using C# and MySQL following the MVC (Model-View-Controller) architecture.
+
+## Features
+
+* Add, Update, Delete, and Search Students
+* Add, Update, Delete, and Search Courses
+* Enroll Students in Courses
+* View Enrollment Details
+* Database connectivity using MySQL
+* Exception handling for database operations
+
+## Technologies Used
+
+* C#
+* .NET
+* MySQL
+* MVC Architecture
+
+## Project Structure
+
+* Models
+
+  * Student
+  * Course
+  * Enrollment
+
+* Controllers
+
+  * StudentController
+  * CourseController
+  * EnrollmentController
+
+* Repositories
+
+  * StudentRepository
+  * CourseRepository
+  * EnrollmentRepository
+
+## Author
+
+Lavanya
